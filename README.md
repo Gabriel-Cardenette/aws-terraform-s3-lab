@@ -1,5 +1,9 @@
 # AWS Terraform S3 Lab
 
+![Terraform](https://img.shields.io/badge/Terraform-v1.x-623CE4?logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-S3-FF9900?logo=amazonaws&logoColor=white)
+![IaC](https://img.shields.io/badge/Infrastructure_as_Code-IaC-blue)
+
 Infrastructure as Code (IaC) project using Terraform and Amazon S3.
 
 ---
@@ -70,7 +74,7 @@ The infrastructure was successfully:
 ## Terraform Init
 
 <p align="center">
-  <img src="./screenshots/terraform-init.png" width="900">
+  <img src="./screenshots/terraform-init.png" width="700">
 </p>
 
 ---
@@ -78,7 +82,7 @@ The infrastructure was successfully:
 ## Terraform Plan
 
 <p align="center">
-  <img src="./screenshots/terraform-plan.png" width="900">
+  <img src="./screenshots/terraform-init.png" width="700">
 </p>
 
 ---
@@ -86,7 +90,7 @@ The infrastructure was successfully:
 ## Terraform Apply
 
 <p align="center">
-  <img src="./screenshots/terraform-apply.png" width="900">
+  <img src="./screenshots/terraform-init.png" width="700">
 </p>
 
 ---
@@ -94,7 +98,7 @@ The infrastructure was successfully:
 ## S3 Bucket Creation
 
 <p align="center">
-  <img src="./screenshots/s3-bucket-creating.png" width="900">
+  <img src="./screenshots/terraform-init.png" width="700">
 </p>
 
 ---
@@ -102,7 +106,7 @@ The infrastructure was successfully:
 ## S3 Bucket Created
 
 <p align="center">
-  <img src="./screenshots/s3-bucket-created.png" width="900">
+  <img src="./screenshots/terraform-init.png" width="700">
 </p>
 
 ---
@@ -110,7 +114,7 @@ The infrastructure was successfully:
 ## Bucket Versioning Enabled
 
 <p align="center">
-  <img src="./screenshots/s3-versioning-enabled.png" width="900">
+  <img src="./screenshots/terraform-init.png" width="700">
 </p>
 
 ---
@@ -118,7 +122,7 @@ The infrastructure was successfully:
 ## Terraform Destroy
 
 <p align="center">
-  <img src="./screenshots/terraform-destroy.png" width="900">
+  <img src="./screenshots/terraform-init.png" width="700">
 </p>
 
 ---
